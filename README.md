@@ -1,5 +1,11 @@
 # 📊 Customer Churn Prediction (End-to-End ML Pipeline)
-
+<p align="center">
+  <img
+    src="assets/Customer Churn Prediction.png"
+    alt="Customer Churn Prediction"
+    width="100%"
+  />
+</p>
 ---
 
 ## 🧠 Problem Statement
